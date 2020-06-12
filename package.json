@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "node src/callback/index.js",
     "callback:api": "node src/callback/api.js",
-    "callback:promise": "node src/callback/promise.js"
+    "promise": "node src/promesa/promise.js"
   },
   "keywords": [
     "callback"
